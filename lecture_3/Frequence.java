@@ -1,3 +1,5 @@
+package lecture_3;
+
 public class Frequence {
     public static void main(String[] args) {
          
